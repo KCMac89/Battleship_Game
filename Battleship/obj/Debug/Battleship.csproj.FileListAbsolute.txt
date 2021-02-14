@@ -1,0 +1,21 @@
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship\Battleship\bin\Debug\Battleship.exe.config
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship\Battleship\bin\Debug\Battleship.exe
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship\Battleship\bin\Debug\Battleship.pdb
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship\Battleship\obj\Debug\Battleship.csprojAssemblyReference.cache
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship\Battleship\obj\Debug\Battleship.Form1.resources
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship\Battleship\obj\Debug\Battleship.Properties.Resources.resources
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship\Battleship\obj\Debug\Battleship.csproj.GenerateResource.cache
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship\Battleship\obj\Debug\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship\Battleship\obj\Debug\Battleship.exe
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship\Battleship\obj\Debug\Battleship.pdb
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship - Modified\Battleship\bin\Debug\Battleship.exe.config
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship - Modified\Battleship\bin\Debug\Battleship.exe
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship - Modified\Battleship\bin\Debug\Battleship.pdb
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship - Modified\Battleship\obj\Debug\Battleship.csprojAssemblyReference.cache
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship - Modified\Battleship\obj\Debug\Battleship.Form1.resources
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship - Modified\Battleship\obj\Debug\Battleship.Properties.Resources.resources
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship - Modified\Battleship\obj\Debug\Battleship.csproj.GenerateResource.cache
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship - Modified\Battleship\obj\Debug\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship - Modified\Battleship\obj\Debug\Battleship.exe
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship - Modified\Battleship\obj\Debug\Battleship.pdb
+C:\Users\crm12\source\repos\Object Based Visual Programming_C#\Battleship - Modified\Battleship\obj\Debug\Battleship.Help.resources
